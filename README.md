@@ -1,2 +1,2 @@
 # ITmovie
-The ITmovie is provide free moviues.
+The ITmovie is provide free movies.
